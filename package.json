@@ -1,0 +1,12 @@
+{
+  "name": "empty",
+  "version": "1.0.0",
+  "description": "it is empty",
+  "private": true,
+  "repository": {
+    "url": "https://github.com/qtisan/siloqian-fabric.git",
+  },
+  "main": "index.js",
+  "author": "Lennon QIAN",
+  "license": "MIT"
+}
