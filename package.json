@@ -2,13 +2,11 @@
   "name": "@siloqian/empty",
   "version": "1.0.1",
   "description": "it is empty",
-  "repository": {
-    "url": "https://github.com/siloqian/empty.git"
-  },
+  "repository": "git://github.com/siloqian/empty.git",
   "main": "index.js",
   "author": "Lennon QIAN",
   "license": "MIT",
   "publishConfig": {
-    "registry": "git://github.com/siloqian/empty.git"
+    "registry": "https://github.com/siloqian/empty"
   }
 }
