@@ -2,11 +2,19 @@
   "name": "@siloqian/empty",
   "version": "1.0.1",
   "description": "it is empty",
-  "repository": "git://github.com/siloqian/empty.git",
+  "keywords": [
+    "empty",
+    "example"
+  ],
+  "homepage": "https://github.com/siloqian/empty#readme",
+  "bugs": {
+    "url": "https://github.com/siloqian/empty/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siloqian/empty"
+  },
   "main": "index.js",
-  "author": "Lennon QIAN",
-  "license": "MIT",
-  "publishConfig": {
-    "registry": "https://github.com/siloqian/empty"
-  }
+  "author": "Lennon QIAN<qtisan@hotmail.com>",
+  "license": "ISC"
 }
