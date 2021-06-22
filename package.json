@@ -1,6 +1,6 @@
 {
   "name": "@siloqian/empty",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "it is empty",
   "keywords": [
     "empty",
@@ -11,10 +11,14 @@
     "url": "https://github.com/siloqian/empty/issues"
   },
   "repository": "git://github.com/siloqian/empty.git",
-  "main": "index.js",
+  "main": "dist/index.js",
   "author": "Lennon QIAN<qtisan@hotmail.com>",
   "license": "ISC",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "node test/index.js"
   }
 }
