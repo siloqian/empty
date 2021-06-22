@@ -16,5 +16,8 @@
   },
   "main": "index.js",
   "author": "Lennon QIAN<qtisan@hotmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
