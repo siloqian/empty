@@ -1,11 +1,14 @@
 {
-  "name": "empty",
-  "version": "1.0.0",
+  "name": "@siloqian/empty",
+  "version": "1.0.1",
   "description": "it is empty",
   "repository": {
-    "url": "https://github.com/qtisan/siloqian-fabric.git"
+    "url": "https://github.com/siloqian/empty.git"
   },
   "main": "index.js",
   "author": "Lennon QIAN",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "git://github.com/siloqian/empty.git"
+  }
 }
